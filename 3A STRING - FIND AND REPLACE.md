@@ -19,8 +19,8 @@ To write a Python function to accept a string, identify a word to be replaced, a
 7.Terminate the program.
 # PROGRAM
 ```
-# REGNO:-212222060079
-#Name:-Harivallabi S
+# REGNO:-212222060266
+#Name:-SWARNA MALLIKA PL
 def replacestr(m, n):
     r=input()
     print("The old string is",m)
